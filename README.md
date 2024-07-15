@@ -1,1 +1,3 @@
 # prophet-challenge
+
+This is a fun challenge utilizing data visualizations, exploratory data analysis techniques, and forecasting modeling library Prophet. In this challenge, challengers were asked to find clever ways to make the ecommerce Mercado Libra grow. Thus one way was to determine if there could be stock purchases and sales made based on the popularity of the ecommerce site, regarding its search trends in google. After, parsing the data in different intervals of time, and running analytical programs, visualizations were made to interpert the data. All the analyses and conclusions are embedded as answers in the program. 
